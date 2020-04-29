@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Joyful Fit Life</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A mom of two helping you create a lifestyle to achieve your fitness and nutrition goals and keeping you motivated for success!</description>
+	<lastBuildDate>Tue, 19 Apr 2016 11:34:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Why are Beachbody programs so effective?</title>
+		<link>./../../../2016/03/08/why-are-beachbody-programs-so-effective/index.html</link>
+		
+		<dc:creator><![CDATA[Kristi Kennedy]]></dc:creator>
+		<pubDate>Wed, 09 Mar 2016 05:55:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=219</guid>
+
+					<description><![CDATA[Fitness + Nutrition + Accountability + support = success! Beachbody is all of these things. What I LOVE about Beachbody program is how everthing is laid out for me! I order the program I want and it comes with a workout schedule to tell me exactly what workout to do and when to do it! <a href="./../../../2016/03/08/why-are-beachbody-programs-so-effective/index.html" rel="nofollow"><span class="sr-only">Read more about Why are Beachbody programs so effective?</span>[&#8230;]</a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

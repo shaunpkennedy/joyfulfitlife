@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>time &#8211; Joyful Fit Life</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A mom of two helping you create a lifestyle to achieve your fitness and nutrition goals and keeping you motivated for success!</description>
+	<lastBuildDate>Tue, 19 Apr 2016 11:34:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>YOU are a priority</title>
+		<link>./../../../2016/03/30/you-are-a-priority/index.html</link>
+		
+		<dc:creator><![CDATA[Kristi Kennedy]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2016 23:49:07 +0000</pubDate>
+				<category><![CDATA[Exercise]]></category>
+		<category><![CDATA[22 Minutes Hard Corps]]></category>
+		<category><![CDATA[priority]]></category>
+		<category><![CDATA[time]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=147</guid>
+
+					<description><![CDATA[Wednesdays are the busiest day of the week for my family. Am I going to use that as an excuse to get out of my workout and making ME a priority? Absolutely not! It&#8217;s a 22 minute workout with moves that recruit so many muscle groups at one time. It&#8217;s short, it effective. Yes, I <a href="./../../../2016/03/30/you-are-a-priority/index.html" rel="nofollow"><span class="sr-only">Read more about YOU are a priority</span>[&#8230;]</a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

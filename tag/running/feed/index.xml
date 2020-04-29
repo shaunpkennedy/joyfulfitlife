@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Running &#8211; Joyful Fit Life</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A mom of two helping you create a lifestyle to achieve your fitness and nutrition goals and keeping you motivated for success!</description>
+	<lastBuildDate>Wed, 11 May 2016 03:37:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Reflections from my second half marathon</title>
+		<link>./../../../2016/05/01/reflections-from-my-second-half-marathon/index.html</link>
+		
+		<dc:creator><![CDATA[Kristi Kennedy]]></dc:creator>
+		<pubDate>Mon, 02 May 2016 03:25:35 +0000</pubDate>
+				<category><![CDATA[Exercise]]></category>
+		<category><![CDATA[Half Marathon]]></category>
+		<category><![CDATA[Moms on the Run]]></category>
+		<category><![CDATA[Running]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=313</guid>
+
+					<description><![CDATA[Today I ran my second half marathon!  The Eau Claire Marathon is a great race on beautiful trails winding through the Eau Claire and Chippewa Rivers. I had a goal to beat my time from my last half of 1:55:09.  Said goal was not met by 27 seconds.  Am I going to beat myself up <a href="./../../../2016/05/01/reflections-from-my-second-half-marathon/index.html" rel="nofollow"><span class="sr-only">Read more about Reflections from my second half marathon</span>[&#8230;]</a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

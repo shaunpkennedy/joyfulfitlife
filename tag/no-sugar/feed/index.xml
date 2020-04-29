@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>No sugar &#8211; Joyful Fit Life</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A mom of two helping you create a lifestyle to achieve your fitness and nutrition goals and keeping you motivated for success!</description>
+	<lastBuildDate>Tue, 19 Apr 2016 12:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Clean Eating Birthday Party!</title>
+		<link>./../../../2016/04/18/299/index.html</link>
+		
+		<dc:creator><![CDATA[Kristi Kennedy]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 11:51:35 +0000</pubDate>
+				<category><![CDATA[Nutrition]]></category>
+		<category><![CDATA[Clean Eating]]></category>
+		<category><![CDATA[healthy]]></category>
+		<category><![CDATA[No sugar]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=299</guid>
+
+					<description><![CDATA[Sugar, sugar, and more sugar! It seems to be everywhere. Even in places you don&#8217;t expect it!  Have you stopped to notice how much sugar our children consume on a daily basis?  Even if we try our best as their parents to limit the sugar.  They will get it other places. There is a birthday <a href="./../../../2016/04/18/299/index.html" rel="nofollow"><span class="sr-only">Read more about Clean Eating Birthday Party!</span>[&#8230;]</a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
